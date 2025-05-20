@@ -1,9 +1,10 @@
 # SQL-Datawarehouse-project
 📖 Overview
+
 This project demonstrates the development of a modern data warehouse using SQL Server, encompassing ETL processes, data modeling, and analytics. It follows the Medallion Architecture pattern, organizing data into Bronze, Silver, and Gold layers to streamline data processing and analysis.
 
-🏗️ Architecture
-The data warehouse architecture is structured as follows:
+ Architecture
+    The data warehouse architecture is structured as follows:
 
         i. Bronze Layer: Raw data ingestion from source systems (e.g., CSV files).
         
@@ -22,12 +23,15 @@ The data warehouse architecture is structured as follows:
         Analytics & Reporting: SQL-based queries
 
 🚀 Getting Started
-Prerequisites
+
+        Prerequisites
+        
         Microsoft SQL Server installed
         
         SQL Server Management Studio (SSMS) or any SQL client
 
 Setup Instructions
+
     1. Clone the repository:
        git clone https://github.com/binisha8/SQL-Datawarehouse-project.git
        
