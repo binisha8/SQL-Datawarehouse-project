@@ -16,7 +16,7 @@ This project demonstrates the development of a modern data warehouse using SQL S
 🔧 Technologies Used
         Database: Microsoft SQL Server
         
-        ETL Tool: T-SQL Scripts
+        ETL Tool: T-SQL 
         
         Data Modeling: Star Schema
 
@@ -31,9 +31,6 @@ This project demonstrates the development of a modern data warehouse using SQL S
         SQL Server Management Studio (SSMS) or any SQL client
 
 
-
-📝 License
-This project is licensed under the MIT License.
 
 🙌 Acknowledgments
 Inspired by best practices in data warehousing and analytics. Special thanks to the contributors and the open-source community.
