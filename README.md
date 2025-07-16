@@ -14,10 +14,9 @@ This project demonstrates the development of a modern data warehouse using SQL S
             analytics.
 
 🔧 Technologies Used
+
         Database: Microsoft SQL Server
-        
-        ETL Tool: T-SQL 
-        
+  
         Data Modeling: Star Schema
 
         Analytics & Reporting: SQL-based queries
